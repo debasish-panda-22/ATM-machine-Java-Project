@@ -47,5 +47,4 @@ This is a simple ATM Machine simulation written in Java. The program allows user
 ## License
 This project is open-source and can be modified as needed.
 
-## Author
-Original code by [Your Name or GitHub Username]
+
